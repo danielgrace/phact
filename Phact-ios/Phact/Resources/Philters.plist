@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PhilterIcons</key>
+	<dict>
+		<key>PLACE</key>
+		<string>icon_places.png</string>
+		<key>PEOPLE</key>
+		<string>philter_icon_people.png</string>
+		<key>PAST</key>
+		<string>philter_icon_past.png</string>
+		<key>POP</key>
+		<string>philter_icon_pop.png</string>
+		<key>TRAVEL</key>
+		<string>philter_icon_travel.png</string>
+		<key>SPORTS</key>
+		<string>philter_icon_sport.png</string>
+		<key>MUSIC</key>
+		<string>philter_icon_music.png</string>
+		<key>FOOD</key>
+		<string>philter_icon_food.png</string>
+		<key>FRIENDS</key>
+		<string>philter_icon_people.png</string>
+		<key>ART</key>
+		<string>philter_icon_food.png</string>
+		<key>SCHOOL</key>
+		<string>philter_icon_school.png</string>
+		<key>NATURE</key>
+		<string>philter_icon_sport.png</string>
+		<key>PHYSICS</key>
+		<string>philter_icon_food.png</string>
+		<key>POST</key>
+		<string>philter_icon_food.png</string>
+	</dict>
+	<key>TopPhilters</key>
+	<array>
+		<string>PLACE</string>
+		<string>PAST</string>
+		<string>POP</string>
+	</array>
+	<key>MorePhilters</key>
+	<array>
+		<string>TRAVEL</string>
+		<string>SPORTS</string>
+		<string>MUSIC</string>
+		<string>FOOD</string>
+		<string>FRIENDS</string>
+		<string>ART</string>
+		<string>SCHOOL</string>
+		<string>NATURE</string>
+		<string>PHYSICS</string>
+		<string>FASHION</string>
+	</array>
+</dict>
+</plist>

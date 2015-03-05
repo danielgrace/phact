@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72072859-3518-4e1b-ab5f-e0f27e3d5e96" name="Default" comment="Twitter and FB account">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/keys/ios_development.cer" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/keys/ios_distribution.cer" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Phact-ios/Phact/Phact-Info.plist" afterPath="$PROJECT_DIR$/../Phact-ios/Phact/Phact-Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Phact-ios/Phact.xcodeproj/project.xcworkspace/xcshareddata/Phact.xccheckout" afterPath="$PROJECT_DIR$/../Phact-ios/Phact.xcodeproj/project.xcworkspace/xcshareddata/Phact.xccheckout" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="serviceApi.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="serviceApi" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="HTTPDigestAuth.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/HTTPDigestAuth/HTTPDigestAuth.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1170">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.ini" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="114" column="39" selection-start="4452" selection-end="4452" vertical-scroll-proportion="0.8519737" vertical-offset="1192" max-vertical-offset="1800">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PhactPrivate.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/Service/PhactPrivate.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="320" column="52" selection-start="8252" selection-end="8252" vertical-scroll-proportion="-5.4583335" vertical-offset="4669" max-vertical-offset="19785">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="14" selection-start="40" selection-end="40" vertical-scroll-proportion="70.125" vertical-offset="1713" max-vertical-offset="2325">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="global.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/global.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="27" selection-start="89" selection-end="103" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="330">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PhactMsg.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/Service/PhactMsg.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="APNS.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/APNS.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="8" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.0" vertical-offset="274" max-vertical-offset="900">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrivateRealm.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/HTTPDigestAuth/PrivateRealm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+              <folding>
+                <marker date="1395043035000" expanded="true" signature="439:486" placeholder="SELECT * FRO..t_users..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Abstract.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/ApnsPHP/Abstract.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="382" column="13" selection-start="11446" selection-end="11446" vertical-scroll-proportion="0.0" vertical-offset="5730" max-vertical-offset="6405">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PublicRealm.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/HTTPDigestAuth/PublicRealm.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="58" selection-start="304" selection-end="314" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="615">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="cd .." />
+      <command text="git st" />
+      <command text="git add serviceApi/" />
+      <command text="git commit -m 'Service API' serviceApi/" />
+      <command text="git push" />
+      <command text="git pull" />
+    </commandsHistory>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/lib/DB/PhactsDB.php" />
+        <option value="$PROJECT_DIR$/lib/Facebook/Facebook.php" />
+        <option value="$PROJECT_DIR$/lib/Twitter/Twitter.php" />
+        <option value="$PROJECT_DIR$/lib/ImageSearch/ImageSearch.php" />
+        <option value="$PROJECT_DIR$/sandbox/index.tpl.html" />
+        <option value="$PROJECT_DIR$/lib/APNS.php" />
+        <option value="$PROJECT_DIR$/lib/Service/PhactPrivate.php" />
+        <option value="$PROJECT_DIR$/lib/ApnsPHP/Abstract.php" />
+        <option value="$PROJECT_DIR$/config.ini" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="9" />
+    <option name="y" value="23" />
+    <option name="width" value="1276" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Phact-serviceApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Phact-serviceApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Phact-API" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Phact-serviceApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Phact-API" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Phact-serviceApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Phact-API" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Phact-serviceApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Phact-API" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Phact-serviceApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Phact-API" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="keys" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="18e385a3-aae7-448f-8f47-088721c09bda" server_name="PhactAPI">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72072859-3518-4e1b-ab5f-e0f27e3d5e96" name="Default" comment="" />
+      <created>1384170014375</created>
+      <updated>1384170014375</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Twitter and FB account">
+      <created>1395144284914</created>
+      <updated>1395144284914</updated>
+    </task>
+    <task id="LOCAL-00002" summary="geo location for search">
+      <created>1395830346291</created>
+      <updated>1395830346291</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new certificates for APNS">
+      <created>1395991060057</created>
+      <updated>1395991060057</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new prod domain">
+      <created>1408688738795</created>
+      <updated>1408688738795</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new prod domain">
+      <created>1408688819740</created>
+      <updated>1408688819740</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new certificates">
+      <created>1409646343804</created>
+      <updated>1409646343804</updated>
+    </task>
+    <task id="LOCAL-00007" summary="cert keys">
+      <created>1409649503153</created>
+      <updated>1409649503153</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Twitter and FB account">
+      <created>1409649810299</created>
+      <updated>1409649810299</updated>
+    </task>
+    <task id="LOCAL-00009" summary="testing shareWithFriends">
+      <created>1409656528163</created>
+      <updated>1409656528163</updated>
+    </task>
+    <task id="LOCAL-00010" summary="testing shareWithFriends">
+      <created>1409656916875</created>
+      <updated>1409656916875</updated>
+    </task>
+    <task id="LOCAL-00011" summary="testing shareWithFriends">
+      <created>1409657090307</created>
+      <updated>1409657090307</updated>
+    </task>
+    <task id="LOCAL-00012" summary="testing shareWithFriends">
+      <created>1409657234902</created>
+      <updated>1409657234902</updated>
+    </task>
+    <task id="LOCAL-00013" summary="testing shareWithFriends">
+      <created>1409657342090</created>
+      <updated>1409657342090</updated>
+    </task>
+    <task id="LOCAL-00014" summary="testing shareWithFriends">
+      <created>1409657441986</created>
+      <updated>1409657441986</updated>
+    </task>
+    <task id="LOCAL-00015" summary="testing shareWithFriends">
+      <created>1409657515936</created>
+      <updated>1409657515936</updated>
+    </task>
+    <task id="LOCAL-00016" summary="testing shareWithFriends">
+      <created>1409658125138</created>
+      <updated>1409658125138</updated>
+    </task>
+    <task id="LOCAL-00017" summary="testing shareWithFriends">
+      <created>1409659470287</created>
+      <updated>1409659470287</updated>
+    </task>
+    <task id="LOCAL-00018" summary="testing shareWithFriends">
+      <created>1409659522925</created>
+      <updated>1409659522925</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Twitter and FB account">
+      <created>1409659572697</created>
+      <updated>1409659572697</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Twitter and FB account">
+      <created>1409659662102</created>
+      <updated>1409659662102</updated>
+    </task>
+    <task id="LOCAL-00021" summary="testing shareWithFriends">
+      <created>1409659763690</created>
+      <updated>1409659763690</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Twitter and FB account">
+      <created>1416379573346</created>
+      <updated>1416379573346</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Twitter and FB account">
+      <created>1416389289640</created>
+      <updated>1416389289640</updated>
+    </task>
+    <task id="LOCAL-00024" summary="keys">
+      <created>1416389395249</created>
+      <updated>1416389395249</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Twitter and FB account">
+      <created>1416389569386</created>
+      <updated>1416389569386</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="9" y="23" width="1276" height="777" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.65451896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46423358" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17341977" sideWeight="0.5350877" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19773096" sideWeight="0.6703741" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4636628" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="geo location for search" />
+    <MESSAGE value="new certificates for APNS" />
+    <MESSAGE value="new prod domain" />
+    <MESSAGE value="new certificates" />
+    <MESSAGE value="cert keys" />
+    <MESSAGE value="testing shareWithFriends" />
+    <MESSAGE value="keys" />
+    <MESSAGE value="Twitter and FB account" />
+    <option name="LAST_COMMIT_MESSAGE" value="Twitter and FB account" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sandbox/index.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="81" selection-start="881" selection-end="881" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="1230">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Service/PhactPrivate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="269" column="0" selection-start="6548" selection-end="6548" vertical-scroll-proportion="0.0" vertical-offset="3914" max-vertical-offset="19740">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Twitter/Twitter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="50" selection-start="1377" selection-end="1377" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="4095">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ImageSearch/ImageSearch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="185" column="155" selection-start="7088" selection-end="7212" vertical-scroll-proportion="0.0" vertical-offset="2513" max-vertical-offset="7305">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Service/Phact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="204" column="20" selection-start="4978" selection-end="4978" vertical-scroll-proportion="0.0" vertical-offset="3060" max-vertical-offset="8190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/DB/PhactsDB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="178" column="21" selection-start="5783" selection-end="5783" vertical-scroll-proportion="0.0" vertical-offset="2534" max-vertical-offset="5160" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1095" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2325" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="35" selection-start="665" selection-end="665" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="1770" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/index.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="81" selection-start="881" selection-end="881" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="1230">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Service/PhactPrivate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="551" column="63" selection-start="17277" selection-end="17284" vertical-scroll-proportion="0.0" vertical-offset="8265" max-vertical-offset="19740">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Twitter/Twitter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="50" selection-start="1377" selection-end="1377" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="4095">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ImageSearch/ImageSearch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="185" column="155" selection-start="7088" selection-end="7212" vertical-scroll-proportion="0.0" vertical-offset="2513" max-vertical-offset="7305">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Service/Phact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="204" column="20" selection-start="4978" selection-end="4978" vertical-scroll-proportion="0.0" vertical-offset="3060" max-vertical-offset="8190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/DB/PhactsDB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="9" selection-start="3167" selection-end="3167" vertical-scroll-proportion="0.0" vertical-offset="1725" max-vertical-offset="5160" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1095" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="2" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2325" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="35" selection-start="665" selection-end="665" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="1770" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/index.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="81" selection-start="881" selection-end="881" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="1230">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Service/PhactPrivate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="551" column="63" selection-start="17277" selection-end="17284" vertical-scroll-proportion="0.0" vertical-offset="8265" max-vertical-offset="19740">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Twitter/Twitter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="32" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="4095">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Service/Phact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="204" column="20" selection-start="4978" selection-end="4978" vertical-scroll-proportion="0.0" vertical-offset="3060" max-vertical-offset="8190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/DB/PhactsDB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="9" selection-start="3167" selection-end="3167" vertical-scroll-proportion="0.0" vertical-offset="1725" max-vertical-offset="5160" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1095" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="2" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2325" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="1157" selection-end="1157" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1770" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/index.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="81" selection-start="881" selection-end="881" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="1230">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Service/PhactPrivate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="303" column="58" selection-start="7586" selection-end="7586" vertical-scroll-proportion="0.0" vertical-offset="4545" max-vertical-offset="19740">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1095" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Facebook/Facebook.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="123" selection-start="720" selection-end="720" vertical-scroll-proportion="0.0" vertical-offset="79" max-vertical-offset="2910" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Facebook/Exception.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="2010" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/DB/PhactsDB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="178" column="21" selection-start="5783" selection-end="5783" vertical-scroll-proportion="0.0" vertical-offset="2534" max-vertical-offset="5160" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="13" selection-start="1689" selection-end="1698" vertical-scroll-proportion="0.0" vertical-offset="149" max-vertical-offset="1095" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/HTTPDigestAuth/HTTPDigestAuth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Service/PhactMsg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="620">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/index.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="96" selection-start="1467" selection-end="1467" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1230">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Twitter/Twitter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="50" selection-start="1377" selection-end="1377" vertical-scroll-proportion="-0.0" vertical-offset="540" max-vertical-offset="4095">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/HTTPDigestAuth/PrivateRealm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="940">
+          <folding>
+            <marker date="1395043035000" expanded="true" signature="439:486" placeholder="SELECT * FRO..t_users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keys/PhactPushDev.pem">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2130">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/HTTPDigestAuth/PublicRealm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="58" selection-start="304" selection-end="314" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ImageSearch/ImageSearch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="54" selection-start="3182" selection-end="3182" vertical-scroll-proportion="0.0" vertical-offset="1260" max-vertical-offset="7695">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Service/PhactGeneral.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/APNS.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="8" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.0" vertical-offset="274" max-vertical-offset="900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ApnsPHP/Abstract.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="382" column="13" selection-start="11446" selection-end="11446" vertical-scroll-proportion="0.0" vertical-offset="5730" max-vertical-offset="6405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Service/Phact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="489" column="40" selection-start="15385" selection-end="15385" vertical-scroll-proportion="0.0" vertical-offset="7197" max-vertical-offset="8190">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="27" selection-start="89" selection-end="103" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="14" selection-start="40" selection-end="40" vertical-scroll-proportion="70.125" vertical-offset="1713" max-vertical-offset="2325">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Service/PhactPrivate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="320" column="52" selection-start="8252" selection-end="8252" vertical-scroll-proportion="-5.4583335" vertical-offset="4669" max-vertical-offset="19785">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="39" selection-start="4452" selection-end="4452" vertical-scroll-proportion="0.8519737" vertical-offset="1192" max-vertical-offset="1800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

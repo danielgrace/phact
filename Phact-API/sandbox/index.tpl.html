@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+        "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <title>Phact API Sandbox</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link type="text/css" rel="stylesheet" href="index.css">
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="js/data.js.php"></script>
+    <script type="text/javascript" src="js/index.js"></script>
+</head>
+<body>
+<form method="post" action="" id="generate-request-form">
+    <fieldset>
+        <legend>Generate request</legend>
+
+        <ul>
+            <li>
+                <label for="host">Host</label>
+                <select id="host" name="host">
+                    <?php if ($config->env === 'DEV') { ?>
+                    <option value="http://api.phact.loc">Local - http://api.phact.loc</option>
+                    <?php } ?>
+                    <option value="http://api.phact.net">Stage - http://api.phact.net</option>
+                    <option value="http://phactapi.bigbek.com">Stage - http://phactapi.bigbek.com</option>
+                    <!--<option value="http://avtapi.bigbek.com/v2/">Stage V2 - http://avtapi.bigbek.com</option>-->
+                    <!--<option value="http://api.phact.com" style="color: red">Live &nbsp;- http://api.phact.com</option>-->
+                    <!--<option value="https://api.phact.com" style="color: red">Live SSL &nbsp;- https://api.phact.com</option>-->
+                </select>
+            </li>
+            <li>
+                <label for="method">Method</label>
+                <select id="method" name="method-selector"></select>
+                <input type="hidden" name="method" id="method-name">
+            </li>
+            <li id="auth-info">
+                <fieldset>
+                    <legend>Auth info</legend>
+                    <ul>
+                        <li>
+                            <label for="realm">Realm</label>
+                            <input type="text" name="realm" id="realm" value="">
+                        </li>
+                        <li class="device-group">
+                            <label class="top">Device</label>
+                            <ul class="radio-group"></ul>
+                        </li>
+                        <li>
+                            <label for="username">Username</label>
+                            <input type="text" name="username" id="username" value="">
+                        </li>
+                        <li>
+                            <label for="password">Password</label>
+                            <input type="text" name="password" id="password" value="">
+                        </li>
+                        <!--<li class="open-udid">-->
+                            <!--<label for="open-udid">Open UDID</label>-->
+                            <!--<input type="text" name="open_udid" id="open-udid" value="">-->
+                        <!--</li>-->
+                    </ul>
+                </fieldset>
+            </li>
+            <li id="params">
+                <fieldset>
+                    <legend>Parameters</legend>
+                    <ul></ul>
+                </fieldset>
+            </li>
+            <li>
+                <input type="submit" value="Generate">
+            </li>
+        </ul>
+    </fieldset>
+</form>
+<textarea id="info"></textarea>
+</body>
+</html>

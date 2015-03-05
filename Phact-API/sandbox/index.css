@@ -1,0 +1,113 @@
+html, body {
+    margin: 0;
+    padding: 5px
+}
+
+form {
+    background-color: #E3EFFF;
+}
+
+fieldset fieldset {
+    background-color: #F2F7FF;
+    display: block
+}
+
+html, body, input, select, textarea {
+    font: 13px Arial, Tahoma, Verdana, sans-serif;
+    color: #15428B
+}
+
+fieldset, input[type="text"], select, textarea {
+    border: solid 1px #6593CF
+}
+
+input[type="text"] {
+    padding: 3px 2px;
+    width: 250px
+}
+
+#params textarea {
+    padding: 3px 2px;
+    width: 250px
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none
+}
+
+ul li {
+    padding: 3px
+}
+
+ul li ul {
+    margin-left: -12px;
+}
+
+label {
+    display: inline-block;
+    margin-right: 5px;
+    margin-top: 3px;
+    text-align: right;
+    vertical-align: top;
+    width: 120px;
+}
+
+form, fieldset {
+    border-radius: 5px;
+    vertical-align: top;
+    display: inline-block;
+    margin: 0
+}
+
+input[type="submit"] {
+    padding: 5px;
+    float: right
+}
+
+#request-form textarea {
+    width: 500px;
+    height: 185px;
+    display: block;
+    margin-bottom: 5px
+}
+
+ul.radio-group {
+    margin: 0;
+    display: inline-block;
+    width: 250px
+}
+
+ul.radio-group li {
+    padding: 2px 0;
+    float: left
+}
+
+ul.radio-group label {
+    width: 100px;
+    text-align: left;
+    margin-left: 5px
+}
+
+input[type="radio"] {
+    margin: 0;
+    padding: 0
+}
+
+.top {
+    vertical-align: top
+}
+
+#info {
+    display: inline-block;
+    width: 700px;
+    height: 700px;
+    margin-left: 30px;
+    font-family: monospace;
+    border: none
+}
+
+#host {
+    font-family: monospace
+}

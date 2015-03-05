@@ -1,0 +1,6 @@
+#AuthUserFile /home/bigbek_dev/www/avtapi.bigbek.com/private/sandbox.htpasswd
+#AuthGroupFile /dev/null
+#AuthName EnterPassword
+#AuthType Basic
+
+#require user avtdev
